@@ -1,0 +1,6 @@
+D:\C#\Dima\C#\REAL_Proj\SofthemeSchool\Algorithm_2\Algorithm_2\bin\Debug\Algorithm_2.exe.config
+D:\C#\Dima\C#\REAL_Proj\SofthemeSchool\Algorithm_2\Algorithm_2\bin\Debug\Algorithm_2.exe
+D:\C#\Dima\C#\REAL_Proj\SofthemeSchool\Algorithm_2\Algorithm_2\bin\Debug\Algorithm_2.pdb
+D:\C#\Dima\C#\REAL_Proj\SofthemeSchool\Algorithm_2\Algorithm_2\obj\Debug\Algorithm_2.csprojResolveAssemblyReference.cache
+D:\C#\Dima\C#\REAL_Proj\SofthemeSchool\Algorithm_2\Algorithm_2\obj\Debug\Algorithm_2.exe
+D:\C#\Dima\C#\REAL_Proj\SofthemeSchool\Algorithm_2\Algorithm_2\obj\Debug\Algorithm_2.pdb
